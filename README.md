@@ -68,8 +68,8 @@ https://github.com/MircoLight/tron-clipboard-Trojan/assets/135567231/5869af02-1f
 
 ## AD -- 机器人推广
 
-查币机器人 - 链上信息查询：[查币机](https://t.me/QueryTokenBot)
-> 可查地址信息 代币实时价格等等
+记账机器人：[记账机器人](https://t.me/FreeJzBot)
+> 完全免费的记账机器人 拉入你的群组即可使用
 
 兑币机 - TRX自动兑换：[兑币机](https://t.me/ConvertTrxBot)
 > 自用兑币机，并不是开源版机器人！！！
@@ -80,7 +80,7 @@ https://github.com/MircoLight/tron-clipboard-Trojan/assets/135567231/5869af02-1f
 TG会员秒开机器人：[TG会员秒开-全自动发货](https://t.me/BuySvipBot)
 > 24小时自动开通Telegram Premium会员，只需一个用户名即可开通。
 
-查币机器人：[TG查币机-查链上信息](https://t.me/QueryCoinsbot)
+查币机器人：[TG查币机-查链上信息](https://t.me/QueryTokenBot)
 > 完全免费，拉入你自己群组即可使用，可查地址信息/实时币价/TGID/群组ID等
 
 ## 私有定制
